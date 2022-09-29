@@ -5,6 +5,8 @@ import java.util.ArrayList;
 
 public class Menu extends MenuComponent {
 	Iterator<MenuComponent> iterator = null;
+
+	/**can create a iterator from this list. */
 	ArrayList<MenuComponent> menuComponents = new ArrayList<MenuComponent>();
 	String name;
 	String description;

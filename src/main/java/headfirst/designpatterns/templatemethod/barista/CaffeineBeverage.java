@@ -1,7 +1,8 @@
 package headfirst.designpatterns.templatemethod.barista;
 
 public abstract class CaffeineBeverage {
-  
+
+	/**template method */
 	final void prepareRecipe() {
 		boilWater();
 		brew();
