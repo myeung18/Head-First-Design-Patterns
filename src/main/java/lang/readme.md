@@ -18,3 +18,17 @@
 
 ### Method References
 * https://www.javabrahman.com/java-8/java-8-method-references-tutorial-examples/
+
+
+### https://www.baeldung.com
+- https://www.baeldung.com/java-record-keyword
+  - lombok (project lombok) vs record
+- https://www.baeldung.com/java-8-functional-interfaces
+  - Functional Interfaces
+  - Suppliers
+  - Consumers
+  - Predicates
+  - Operators
+- 
+
+### 
