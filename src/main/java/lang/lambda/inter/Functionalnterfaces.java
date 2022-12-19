@@ -1,0 +1,1 @@
+package lang.lambda.inter;public class Functionalnterfaces {    @FunctionalInterface    interface Multiplier {        int multiply(int i, int j);        default void method(){}    }    void method() {        Multiplier m = (a, b) -> a * b;    }    public static void main(String[] args) {    }}

@@ -1,0 +1,1 @@
+package lang.nestcls;/** * https://twitter.com/gunnarmorling/status/1604836893769830400 */public class Outer {    private static class Inner {        @FunctionalInterface        public interface Supplier {            int getInt();        }    }    public static void invoke(Inner.Supplier supplier) {}}

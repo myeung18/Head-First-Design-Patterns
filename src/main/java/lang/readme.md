@@ -31,4 +31,8 @@
   - Operators
 - 
 
-### 
+### Java 8 Lambdas and Streams
+- https://learning.oreilly.com/videos/java-8-lambdas/9781771374743/9781771374743-video229801/
+  - https://resources.oreilly.com/examples/0636920043232/
+  - https://github.com/syeung14/Java8LambdasandStreams-workingfiles
+  - 
